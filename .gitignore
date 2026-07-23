@@ -1,0 +1,24 @@
+# Arduino IDE and build output
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
+*.sym
+*.d
+build/
+sketch/
+
+# Editor and operating-system files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local secrets and machine-specific settings
+.env
+.env.*
+secrets/
+local/
+
