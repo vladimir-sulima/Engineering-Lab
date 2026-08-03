@@ -51,3 +51,13 @@ Inventory, project status, code, wiring, drawings, safety notes, and lessons lea
 **Status:** Accepted
 
 The core participants are Vova, Alexandr, and Daria. Documentation should remain family-friendly while preserving correct English technical terminology where useful.
+
+## 2026-08-02 — Aquarium cave uses replaceable standardized modules
+
+**Status:** Accepted
+
+The aquarium cave project will use interchangeable rooms, passages, junctions, vertical entrances, and end caps rather than one permanent monolithic facade.
+
+Modules will share a standardized passage connection so parts can be replaced or rearranged when the aquarium is dismantled for periodic cleaning. Viewing rooms will sit along the front glass, top entrances will use raised rims to limit substrate intrusion, and the baseline visual style will be a natural textured cave.
+
+Exact dimensions, connector geometry, material, coating, and circulation method remain open until measurement and prototype testing.
