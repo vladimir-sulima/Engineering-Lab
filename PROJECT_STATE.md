@@ -1,6 +1,6 @@
 # Project State
 
-Last updated: 2026-07-31
+Last updated: 2026-08-02
 
 ## Status
 
@@ -48,6 +48,23 @@ Current recorded stage from conversation:
 - Final side was poured and curing.
 - Next steps include trimming, flattening or removing a small surface layer, sanding, and applying oil after adequate cure.
 
+### 3D printing — modular aquarium cave
+
+Active project: `P-001 • Modular Aquarium Cave System`.
+
+Current concept:
+
+- Build interchangeable cave rooms and passages along the aquarium front glass.
+- Leave viewing rooms open toward the front glass so fish remain visible inside.
+- Use a standardized passage connection so rooms, tunnels, junctions, and end caps can be replaced during periodic aquarium teardown and cleaning.
+- Include several top entrances with raised substrate-retaining rims.
+- Use natural cave textures, rounded stalactites, stalagmites, and structural rock columns.
+- Validate the concept with one small prototype before designing the full facade.
+
+Current next step: obtain exact aquarium, substrate, equipment-clearance, and fish-size measurements before dimensioned CAD work.
+
+Canonical record: `platforms/3d-printing/projects/P-001-modular-aquarium-cave/README.md`.
+
 ### Electronics education
 
 - Current primary platform: Arduino Uno.
@@ -56,11 +73,12 @@ Current recorded stage from conversation:
 
 ## Current priorities
 
-1. Finish the GitHub-first operating documents and bootstrap instructions.
-2. Reconcile the existing inventory files with tools already known from prior work.
-3. Add the two folding sawhorses and drill press vise to the workshop inventory.
-4. Continue documenting the floating shelf project.
-5. Prepare the next Arduino lesson when the family is ready.
+1. Measure the aquarium and planned installation zone for the modular cave project.
+2. Define and test the first standardized cave-passage connector.
+3. Reconcile the existing inventory files with tools already known from prior work.
+4. Add the two folding sawhorses and drill press vise to the workshop inventory.
+5. Continue documenting the floating shelf project.
+6. Prepare the next Arduino lesson when the family is ready.
 
 ## Known inventory facts requiring preservation
 
@@ -104,6 +122,8 @@ Every assistant working on an existing Engineering-Lab workstream must read:
 - Whether platform-specific work should live in separate folders.
 - Whether existing tool and component information should be kept in inventory.
 - Whether the assistant should update documentation as part of normal work.
+- Whether the aquarium cave should be modular and visible through the front glass.
+- Whether top cave entrances require raised rims to retain substrate.
 
 ## Open questions
 
@@ -112,6 +132,11 @@ Every assistant working on an existing Engineering-Lab workstream must read:
 - Storage locations for tools and consumables.
 - Current quantities of consumables such as epoxy, pigments, sandpaper, oils, and filament.
 - Exact next Arduino lesson status after synchronization with existing lesson files.
+- Exact internal aquarium dimensions and usable front installation area.
+- Largest fish dimensions and safe passage size for the aquarium cave.
+- Final aquarium-safe filament, coating, and cleaning method.
+- Final cave connector geometry and tolerances.
+- Final water-circulation approach through the lower cave level.
 
 ## Change policy
 
