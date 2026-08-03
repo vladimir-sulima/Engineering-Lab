@@ -59,6 +59,10 @@ This document maps durable knowledge to its canonical location and identifies in
 | Filament inventory | Partial | Needs inventory |
 | Spare hotends/nozzles | Partial | Needs confirmation |
 | Saved models and print settings | Partial | Add per project |
+| Modular aquarium cave concept | Known | `platforms/3d-printing/projects/P-001-modular-aquarium-cave/README.md` |
+| Aquarium cave dimensions | Unknown | Measure aquarium, substrate zone, clearances, and fish sizes |
+| Aquarium-safe material and finish | Partial | Research and test before wet installation |
+| Standard cave-module connector | Partial | Define and validate with a dry-fit prototype |
 
 ## Active projects
 
@@ -67,6 +71,7 @@ This document maps durable knowledge to its canonical location and identifies in
 | Engineering Lab Foundation | In progress | Repository root and `docs/` |
 | Floating shelf with black epoxy | In progress | Needs canonical woodworking project record or reconciliation with existing files |
 | Arduino family lessons | Active | `platforms/arduino/` |
+| P-001 Modular Aquarium Cave System | Concept development | `platforms/3d-printing/projects/P-001-modular-aquarium-cave/README.md` |
 
 ## Rules for updating this map
 
